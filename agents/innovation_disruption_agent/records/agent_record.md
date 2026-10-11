@@ -2,7 +2,7 @@
 
 Student: Minghan Liu. Assignment 3. Version 1.1. Date: 2026-10-11.
 Repository: https://github.com/lmh04250425/MASY1800-agents
-Branch: assignment-3-innovation-disruption. See DELIVERY_MANIFEST.json in the downloadable package for the immutable final commit.
+Branch: assignment-3-innovation-disruption. Implementation and tests commit: 4cdf07c1a6eb2cbaf10f44423393bd9d5e87c24b. See ../DELIVERY_MANIFEST.json for version and completion details.
 Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0. FROZEN CORE INTACT; original ZIP comparison passed.
 
 Purpose: classify the technology and local proposal separately, assess creation/destruction of value, and bound a management implication.
@@ -28,3 +28,4 @@ Write about 100-150 words in your own voice: what you initially thought, which a
 
 ## AI and verification
 Codex drafted specialist instructions, organized sources, generated the six JSON outputs interactively, reviewed weaknesses and revised the package. The same conversation performed generation and critique. The original frozen scripts constructed packets and validated responses; an additional standard-library checker checked contract details and archive hashes. There was no OpenAI API call, live admissions agent, applicant experiment or independent evaluator. Public sources S1-S6 were opened and inspected, and user-provided slides supplied the course framework. Claims about NYU operations not established by those sources were treated as assumptions. The student must complete the marked independent judgment and reflection.
+

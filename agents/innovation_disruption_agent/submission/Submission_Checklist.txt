@@ -1,0 +1,20 @@
+ASSIGNMENT 3 SUBMISSION CHECKLIST
+
+Minghan Liu | Innovation and Disruption Agent v1.1 | October 11, 2026
+
+1. Open Assignment_3_Agent_Record_Minghan_Liu.docx.
+2. On page 4, complete BOTH yellow-highlighted sections marked [STUDENT INPUT REQUIRED]:
+   - E: your independent judgment (suggested 2-4 sentences).
+   - F: your personal reflection (suggested 100-150 words).
+   These lengths are suggestions, not instructor requirements. Replace the highlighted instructions with your own words and remove the completion reminders before submitting.
+3. Review the analytical conclusion and sources. Be able to explain why the SPS case and synthetic provider case differ.
+4. Submit the completed Word record plus the working agent package, following any Brightspace file restrictions. The Word includes the repository, branch and implementation commit. The ZIP preserves cases, six JSON outputs, prompts, revisions, sources and runnable validation tools.
+5. After uploading, click Submit in Brightspace. The displayed deadline is October 12, 2026 at 11:59 PM; Brightspace is authoritative.
+
+Repository:
+https://github.com/lmh04250425/MASY1800-agents/tree/assignment-3-innovation-disruption/agents/innovation_disruption_agent
+Implementation/test commit: 4cdf07c1a6eb2cbaf10f44423393bd9d5e87c24b
+
+Title clarification: the course schedule says “HW 3 - Sub Agent 2” followed by “Cycles.” The 2 identifies the specialist. Two test rounds are preserved as evidence of improvement, not as a claimed mandatory cycle count.
+
+The current package does not include the student's personal reflection or final independent endorsement. It is not ready to submit until the two marked sections are completed. No actual applicant experiment, measured ROI or live admissions deployment is claimed.
