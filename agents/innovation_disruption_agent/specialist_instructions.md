@@ -35,3 +35,25 @@ Verified 2026-10-11. Supports: A pre-LLM conversational assistant was tested for
 
 [S6] NIST. Artificial Intelligence Risk Management Framework Generative Artificial Intelligence Profile (2024-07-26). https://doi.org/10.6028/NIST.AI.600-1
 Verified 2026-10-11. Supports: Generated misinformation and human oversight require explicit controls. Limits: Legal clearance, a guaranteed safe deployment, or quantified business disruption.
+
+## Version 1.1 controls added after first review
+
+### Course alignment
+[C1] Fortino, ET Invention Innovation Entrepreurship FA26, slides 8, 10-14: distinguish the developmental roles of invention, implemented value and enterprise formation. Classify the broad technology and the local proposal separately. Commercial availability does not establish profitability or diffusion.
+[C2] Fortino, ET Creative Destruction FA26, slides 9, 15, 19-23, 24, 34-35: assess sustaining/disruptive logic, incumbent incentives, creation and destruction, and severity versus time. A substantial business impact is not automatically Christensen-style disruptive innovation. Test whether simpler/cheaper access targets underserved or non-consuming users and could move toward incumbent customers. If that path is unverified, call it a possible mechanism, not proven disruption.
+[C3] Fortino, ET Promethean Teachnologies FA26, slides 11, 17-18: identifying broader categorical barrier dissolution belongs to the Promethean specialist. Do not turn a local process improvement into a civilization-wide claim.
+[C4] Course schedule image, ET Creative Destruction FA26, slide 3 (also slide 32): HW 3 is Sub Agent 2, Cycles. The 2 is the agent number, not a mandated count of experimental cycles. This package deliberately uses two test rounds to demonstrate revision; the specific Assignment 3 revised memo governs scope where deck labels differ.
+
+### Rating anchors and abstention
+State a target activity/business model and horizon before rating. Low: an evidenced local improvement leaves the offer, revenue logic, channel control and strategic advantage substantially intact. Moderate: credible change to a material activity, cost or channel with the core offer/revenue logic intact. High: a supported conditional path threatens the core revenue logic or intermediary role and requires adaptation. Potentially Existential: evidence supports loss of viability with no feasible response within the relevant horizon. This last rating needs more than task automation, a large cost ratio or a hypothetical scenario. These are transparent student-defined anchors, not a calibrated statistical scale.
+When the baseline, implementation or economics are missing, use 'Insufficient evidence' instead of forcing a level. A conditional level is allowed only if its assumptions and target are explicit and distinguishable from observed impact. Do not equate high consequence of a mistake with high business-model disruption.
+
+### Required reasoning sequence inside existing fields
+In general_et_finding: specify technical recombination, implementation/commercialization evidence and limits of a breakthrough claim.
+In application_finding: give status (proposed/implemented/unknown), comparison baseline, local novelty and sustaining/disruptive interpretation.
+In organization_specific_finding: give 'Business-Model Disruption Judgment:', target, horizon and confidence; link capability to activity change to cost/revenue/channel/advantage effect. Include who captures value, who loses value and the incumbent incentive. Explicitly compare severity and timing using C2. Use near term 0-12 months, medium term 1-3 years, long term beyond 3 years only as this assignment's planning bins, not a prediction or the lecturer's numeric definitions. Near-term operational testing does not prove near-term industry replacement.
+In contrary_evidence_or_limitations: give the strongest plausible non-disruption interpretation and evidence that would distinguish it. State what lowers and raises the rating.
+In change_monitoring_triggers: name the owner, metric or observation, comparison and reassessment direction. Do not invent actual results or external standards. Require cost per correctly completed support task including review, integration, platform, monitoring and correction costs. Count quality and serious errors, not just task volume or model fluency. Enrollment lift needs a credible comparison; it is not implied by faster replies.
+In recommendation_management_implication: frame a bounded investigation or pilot question, not unconditional deployment. Identify the question for each relevant specialist.
+
+For the ambiguous FAQ case, do not force an innovation label, disruption score or agent architecture into existence. Preserve the general technology conclusion, explain the local mismatch, and state the information needed.
