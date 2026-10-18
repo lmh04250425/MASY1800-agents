@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI built on large language models (LLM-based agents that plan, use tools, and complete multi-step tasks)",
+  "intended_application": "The SAME proposed applicant-support design: an agent retrieves approved program information, asks clarifying questions, plans next steps and books an advising appointment through a permission-limited tool; staff approve consequential messages and record changes; no admission or financial-aid decisions.",
+  "organization": "Hypothetical venture-backed, online-only graduate certificate provider (synthetic; not NYU and not an observed company)",
+  "industry_sector": "Higher education / education technology; applicant trust, privacy and truthful marketing matter. Exact legal obligations require specialist review.",
+  "business_need": "Scenario assumption: leadership wants faster applicant response and an 'AI-first' brand position; investors expect visible AI differentiation. Benefits are not measured.",
+  "users_stakeholders": "Prospective students, a small admissions team, product/engineering staff, executives and investors",
+  "adoption_posture": "Aggressive / leading-edge: leadership seeks first-mover positioning and accepts higher experimentation risk (scenario assumption).",
+  "capabilities_constraints": "Scenario assumptions: in-house ML engineering team, modern CRM with API access, small admissions staff, short decision cycles, investor pressure. No measured performance, cost or revenue data.",
+  "risk_consequence_context": "Wrong guidance or overstated AI marketing could harm applicants and the brand; the firm is younger and less reputation-buffered than a university. No legal determination is made.",
+  "management_question": "Is agentic AI incremental, a breakthrough, or potentially Promethean, and how much should that broad significance influence this provider's plan to make agentic AI a core differentiator within 12 months?",
+  "time_horizon": "12 months: decision now, review each quarter",
+  "additional_context": "Synthetic posture contrast. Technology and application are held constant with the primary case; adoption posture, capabilities and strategic intent differ. The broad classification should not move because of posture; the management implication may."
+}

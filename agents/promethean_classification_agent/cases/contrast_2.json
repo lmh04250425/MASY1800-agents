@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI built on large language models (LLM-based agents that plan, use tools, and complete multi-step tasks)",
+  "intended_application": "Proposed patient-access agent: answers scheduling and logistics questions from approved content, gathers referral details and proposes appointment slots through a permission-limited scheduling tool; staff confirm bookings; excludes clinical advice, triage and medication questions.",
+  "organization": "Hypothetical conservative regional community hospital system (synthetic; not an observed organization)",
+  "industry_sector": "Healthcare delivery; patient safety, health-information privacy and accessibility obligations apply. Exact legal obligations require specialist review.",
+  "business_need": "Scenario assumption: long phone queues and missed referrals; staff time is scarce. Not measured.",
+  "users_stakeholders": "Patients and caregivers, patient-access staff, clinicians, IT, privacy/compliance and risk management",
+  "adoption_posture": "Conservative / risk-averse: adopts after peer institutions demonstrate safe use (scenario assumption).",
+  "capabilities_constraints": "Scenario assumptions: small IT team, legacy EHR and scheduling integration constraints, limited compliance-review capacity, union and staffing considerations. No vendor selected.",
+  "risk_consequence_context": "High: a wrong instruction or lost referral could delay care; patient data exposure is serious; some harms may be irreversible.",
+  "management_question": "Is agentic AI incremental, a breakthrough, or potentially Promethean, and how much should that broad significance influence whether the hospital acts on a patient-access agent within 18 months?",
+  "time_horizon": "18 months",
+  "additional_context": "Synthetic application-and-consequence contrast: same technology, different application, organization, posture and consequence level. The broad classification should remain stable."
+}
