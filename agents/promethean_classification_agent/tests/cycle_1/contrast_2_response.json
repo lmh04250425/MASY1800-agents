@@ -1,0 +1,87 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Broad technological significance (incremental / breakthrough / potentially Promethean) and its bounded weight in a present application decision",
+    "version": "1.0"
+  },
+  "analytical_question": "Is agentic AI incremental, a breakthrough, or potentially Promethean, and how much should that broad significance influence this organization's present decision about the specified application?",
+  "general_et_finding": "Classification: Potentially Promethean (mode: Potential Promethean - emerging, not yet verified). Confidence: Moderate. Layer 1: agentic AI is a deployed system, not an unassembled component; LLMs combined with tools and a control loop are commercially offered and integrated across major AI products (E14, E15). Layer 2 barrier statement: Before this technology, carrying out multi-step knowledge work across digital systems required a human to perform each step; this was not experienced as a limitation but as the definition of white-collar work. Suppression test: increasingly no. Software development and other workflows are being rebuilt around agents (31% of developers already use agents, E13; more than 10,000 public MCP servers and support across major AI products, E14), so removal would disrupt systems now being built on top of it. Dissolution is emerging. Layer 3: order-of-magnitude - Supported (OSWorld agent accuracy about 5% to 66.3% in one year, E5; task horizons doubling about every seven months, E4); widespread impact - Supported (about 80% of US workers have at least 10% of tasks exposed, E3; generative AI adoption faster than PCs or the internet, E5, E6); paradigm shift - Supported (software that directs its own process rather than following predefined code paths, E15); catalytic effect - Supported (open protocol ecosystem and a new foundation, E14); democratizing effect - Partial (34% gains for novice workers, E7); irreversibility - Unknown (verifiable only after the fact, C1). Tiers: economic activity (execution of digital work) and cognitive and social life (how people learn, write and seek information) - two tiers. This matches the course timeline, which lists generative AI as Potential Promethean (C1, slide 20). The technology-level classification does not change with the organization.",
+  "application_finding": "Application significance: Incremental to modest for patient access: scheduling and logistics support inside a staff-confirmed process. It draws only lightly on the broad barrier. Consequence is high because errors can delay care.",
+  "organization_specific_finding": "Conservative posture and high consequence argue against any patient-facing agent within 18 months. However, because the technology is potentially Promethean, the hospital risks falling behind peers if it waits; it should begin a structured readiness program now (governance, data access review, vendor scanning) so it can move once peers demonstrate safe use.",
+  "evidence": [
+    {
+      "claim": "Course instrument: barrier statement, suppression test, six criteria, tiers and Confirmed/Potential mode; generative AI shown as Potential Promethean on the course timeline.",
+      "source_or_reference": "[C1] Fortino, ET Promethean Technologies FA26, slides 7-10, 15-17, 19-20",
+      "date_or_recency": "FA26; inspected 2026-10-18",
+      "evidence_type": "course analytical framework",
+      "notes": "Framework, not evidence about agentic AI."
+    },
+    {
+      "claim": "Agent capability on computer-use tasks rose from about 5% to 66.3% in one year, below a 72.35% human baseline.",
+      "source_or_reference": "[E5] Stanford HAI, 2026 AI Index Report. https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "date_or_recency": "2026-04-13; verified 2026-10-18",
+      "evidence_type": "independent indicator compilation",
+      "notes": "Benchmark result."
+    },
+    {
+      "claim": "Frontier 50% time horizon about 50 minutes, doubling roughly every seven months since 2019.",
+      "source_or_reference": "[E4] Kwa et al. (METR), arXiv 2503.14499. https://arxiv.org/abs/2503.14499",
+      "date_or_recency": "2025-03-18; v4 2026-07-10; verified 2026-10-18",
+      "evidence_type": "independent capability evaluation",
+      "notes": "Software task suite."
+    },
+    {
+      "claim": "About 80% of US workers could have at least 10% of tasks affected; LLMs show traits of general-purpose technologies.",
+      "source_or_reference": "[E3] Eloundou et al., arXiv 2303.10130. https://arxiv.org/abs/2303.10130",
+      "date_or_recency": "2023-03; Science 2024-06-20; verified 2026-10-18",
+      "evidence_type": "exposure estimate",
+      "notes": "Potential exposure."
+    },
+    {
+      "claim": "Nearly 40% of US adults 18-64 use generative AI; adoption faster than PCs and the internet.",
+      "source_or_reference": "[E6] Bick, Blandin, Deming, NBER WP 32966. https://www.nber.org/papers/w32966",
+      "date_or_recency": "2024-09; rev. 2025-02; verified 2026-10-18",
+      "evidence_type": "survey",
+      "notes": "Generative AI generally."
+    },
+    {
+      "claim": "31% of developers currently use AI agents.",
+      "source_or_reference": "[E13] Stack Overflow 2025 Developer Survey. https://stackoverflow.co/company/press/archive/stack-overflow-2025-developer-survey/",
+      "date_or_recency": "2025-07-29; verified 2026-10-18",
+      "evidence_type": "self-selected survey",
+      "notes": "Developers only."
+    },
+    {
+      "claim": "More than 10,000 public MCP servers; protocol donated to a Linux Foundation agentic AI foundation.",
+      "source_or_reference": "[E14] Anthropic. https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "date_or_recency": "2025-12-09; verified 2026-10-18",
+      "evidence_type": "vendor announcement",
+      "notes": "Self-reported."
+    },
+    {
+      "claim": "A conversational assistant raised support productivity 14%, 34% for novices.",
+      "source_or_reference": "[E7] Brynjolfsson, Li, Raymond, QJE 2025. https://www.nber.org/papers/w31161",
+      "date_or_recency": "2023; QJE 2025; verified 2026-10-18",
+      "evidence_type": "field study",
+      "notes": "Assistive, not autonomous."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Experienced developers were 19% slower with early-2025 AI tools while believing they were faster (E8).",
+    "Danish administrative data show precise null effects on earnings and hours two years after ChatGPT (E9).",
+    "A task-based estimate puts the 10-year TFP gain below 0.66% (E10).",
+    "The best agent completed only 30% of realistic workplace tasks (E11); Gartner forecasts that over 40% of agentic AI projects will be canceled by 2027 (E12).",
+    "Irreversibility cannot be verified yet (C1)."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in the classification; high uncertainty about safe healthcare use.",
+  "value_opportunity_implication": "Possible queue reduction and fewer missed referrals; unmeasured.",
+  "risk_governance_implication": "Patient safety and health-information privacy dominate; clinical advice must be excluded and staff confirmation retained.",
+  "recommendation_management_implication": "Do not deploy a patient-facing agent within 18 months; begin a readiness program and monitor peer evidence.",
+  "change_monitoring_triggers": [
+    "Reassess when peer hospitals publish validated results.",
+    "Reassess if regulators issue guidance on patient-facing AI agents."
+  ],
+  "abstention_or_more_information_needed": [
+    "Integration constraints and peer evidence are not available."
+  ]
+}
