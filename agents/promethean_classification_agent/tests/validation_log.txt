@@ -1,0 +1,24 @@
+PASS: FROZEN CORE INTACT
+PASS: Common input schema: primary
+PASS: Common input schema: contrast_1
+PASS: Common input schema: contrast_2
+PASS: Common input schema: hype_probe
+PASS: Technology held constant across all four cases
+PASS: Hype probe differs from primary only in additional_context
+PASS: Cycle 1 primary: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1 contrast_1: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1 contrast_2: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1 hype_probe: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1: general technology finding identical across all four contexts
+PASS: Cycle 2 primary: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2 contrast_1: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2 contrast_2: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2 hype_probe: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2: general technology finding identical across all four contexts
+PASS: Cycle 2: floor/ceiling header and significance-weight header present in all outputs
+PASS: Cycle 2: significance weight identical across contexts (Low)
+PASS: Cycle 2: hype invariance - same findings and recommendation as primary, plus at least six rejected/deferred claims
+PASS: Cycle 2: management recommendation differs across the three real contexts
+PASS: Cycle 1 preserved failure: hype probe recommendation diverged from primary (archived, not patched)
+
+22 structural/integrity checks passed. They do not prove factual validity, deployment safety or business performance. See the qualitative reviews.

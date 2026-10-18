@@ -1,0 +1,141 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Broad technological significance (incremental / breakthrough / potentially Promethean) and its bounded weight in a present application decision",
+    "version": "1.1"
+  },
+  "analytical_question": "Is agentic AI incremental, a breakthrough, or potentially Promethean on present evidence, and how much should that broad significance influence this organization's present decision about the specified application?",
+  "general_et_finding": "Classification: Breakthrough | Potential-Promethean candidacy: UNRESOLVED | Floor confidence: Moderate | Ceiling confidence: Low. Layer 1: agentic AI is a usable, deployed system: an LLM that directs its own process and tool use, unlike a fixed workflow (E15), offered commercially and connected to tools through a shared protocol supported by major AI products (E14). It is evaluated as that system. The course timeline's 'Potential Promethean ?' label for generative AI (C1, slide 20) is not inherited. Barrier statement: Before this technology, carrying out a multi-step task across digital systems (finding information, operating software, completing a transaction) required a person to perform or directly drive each step; this was not experienced as a limitation but as the definition of clerical and professional knowledge work. Suppression test (present tense, dependence evidence only): if agentic AI vanished today, the old state would largely return. Generative AI as a whole assisted only about 1-5% of US work hours in late 2024 (E6); agents are used by a minority even of developers (31%, E13); Danish earnings and hours show precise null effects two years after ChatGPT (E9); and many enterprise agent projects are still pilots, with over 40% forecast to be cancelled (E12). Dependence is forming in software development and AI tooling (E13, E14), but no evidence shows that removal would collapse dependent systems. Result: dissolution in progress, not yet testable. On present evidence this is a reduction, so the classification is capped at Breakthrough (C1). Breakthrough floor: independent evaluations show an order-of-magnitude capability change within one tier, economic activity. Computer-use agent accuracy rose from about 5% to 66.3% in one year, still below a 72.35% human baseline (E5), and task horizons have doubled roughly every seven months (E4). Layer 3, prospective (cannot raise the classification): 10X - Supported for capability, Unknown in the field (the best agent completed 30% of realistic workplace tasks, E11); widespread impact - Partial: broad potential exposure (E3) but small realized effects (E6, E9, E10); paradigm shift - Partial: software that chooses its own steps (E15), so far inside existing work designs; catalytic effect - Partial and early: a shared protocol ecosystem, self-reported (E14); democratizing effect - Partial: largest gains for novices in an assisted setting (E7); irreversibility - Unknown, verifiable only after the fact (C1). Tiers: one observed (economic activity). Cognitive and social life is exposed but not yet shown reorganizing around agents. Mode: not Confirmed; candidacy unresolved. This paragraph is identical for every organization at this evidence date (2026-10-18).",
+  "application_finding": "Baseline: admissions staff and the provider's existing public channels (any current chatbot is unknown). The design is the same as in the primary case. It reduces handling effort inside an existing admissions process; switching it off returns that process. It does not sit on the broad barrier frontier. Application significance: Incremental. Assisted-support evidence (E7) suggests possible productivity value, which the provider must measure for itself.",
+  "organization_specific_finding": "Significance weight on the present decision: Low. The aggressive posture, in-house engineering team and short decision cycles legitimately change timing and scale. The provider can run a faster, larger and reversible experiment than SPS: a matched comparison next quarter, then a limited live pilot with staff approval if results justify it. It can also invest in in-house agent skills as a learning option. Incremental-counterfactual test. PASS: fast experimentation and capability building, which would be sensible even for an incremental tool given this firm's strategy and skills. FAIL: 'making agentic AI the core differentiator within 12 months' without application evidence (conversion quality, cost per correctly completed inquiry, error rate), because that thesis rests on the technology's broad importance and an investor narrative rather than measured applicant value. AI-first marketing claims must not exceed what has been verified. Posture changes the plan; it does not change the classification, which is identical to the primary case.",
+  "evidence": [
+    {
+      "claim": "Course instrument: Layer 1 system test; barrier statement; suppression test ('if the old state would simply return ... at most a breakthrough'); six criteria; single tier = breakthrough; irreversibility verifiable only after the fact; Confirmed vs Potential mode.",
+      "source_or_reference": "[C1] Andres Fortino, ET Promethean Technologies FA26, slides 8-10, 15-17, 19-20 (user-supplied course material)",
+      "date_or_recency": "FA26; inspected 2026-10-18",
+      "evidence_type": "course analytical framework",
+      "notes": "Framework only. The slide-20 label for generative AI is an exemplar, not evidence about agentic AI."
+    },
+    {
+      "claim": "Agents dynamically direct their own processes and tool use; workflows follow predefined code paths; agents trade latency and cost for performance and risk compounding errors.",
+      "source_or_reference": "[E15] Anthropic, Building effective agents. https://www.anthropic.com/engineering/building-effective-agents",
+      "date_or_recency": "2024-12-19; living page; verified 2026-10-18",
+      "evidence_type": "vendor engineering guidance",
+      "notes": "Definition used for Layer 1; not evidence of superiority."
+    },
+    {
+      "claim": "More than 10,000 active public MCP servers and 97M+ monthly SDK downloads; protocol donated to the Linux Foundation's Agentic AI Foundation, co-founded by Anthropic, Block and OpenAI.",
+      "source_or_reference": "[E14] Anthropic. https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "date_or_recency": "2025-12-09; verified 2026-10-18",
+      "evidence_type": "vendor announcement",
+      "notes": "Self-reported counts. Early catalytic signal; not dependence or value."
+    },
+    {
+      "claim": "Nearly 40% of US adults 18-64 use generative AI, but it assists only 1-5% of all work hours, with time savings of about 1.4% of work hours.",
+      "source_or_reference": "[E6] Bick, Blandin, Deming, The Rapid Adoption of Generative AI, NBER WP 32966; Management Science 2026. https://www.nber.org/papers/w32966",
+      "date_or_recency": "2024-09; revised 2025-02; verified 2026-10-18",
+      "evidence_type": "nationally representative survey",
+      "notes": "Fast adoption is diffusion context; the hours share is dependence evidence. Generative AI broadly, not agents."
+    },
+    {
+      "claim": "31% of developers currently use AI agents, 17% plan to, 38% do not plan to; 46% distrust the accuracy of AI output.",
+      "source_or_reference": "[E13] Stack Overflow 2025 Developer Survey press release. https://stackoverflow.co/company/press/archive/stack-overflow-2025-developer-survey/",
+      "date_or_recency": "2025-07-29; verified 2026-10-18",
+      "evidence_type": "self-selected survey (49,000+)",
+      "notes": "Developers are the leading domain; minority use is not dependence."
+    },
+    {
+      "claim": "Precise null effects on earnings and recorded hours; effects larger than 2% ruled out two years after ChatGPT's launch.",
+      "source_or_reference": "[E9] Humlum and Vestergaard, NBER WP 33777. https://ideas.repec.org/p/nbr/nberwo/33777.html",
+      "date_or_recency": "2025; verified 2026-10-18",
+      "evidence_type": "administrative-data difference-in-differences",
+      "notes": "Denmark; chatbots, not agents; short run."
+    },
+    {
+      "claim": "Over 40% of agentic AI projects forecast to be cancelled by end-2027; only about 130 of thousands of 'agentic AI' vendors judged real.",
+      "source_or_reference": "[E12] Gartner press release. https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027.",
+      "date_or_recency": "2025-06-25; verified 2026-10-18",
+      "evidence_type": "analyst forecast and non-random poll",
+      "notes": "A forecast, used only as a caution against hype, not as proof of failure."
+    },
+    {
+      "claim": "Computer-use agent accuracy (OSWorld) rose from about 5% in 2024 to 66.3% in 2025, below a 72.35% human baseline.",
+      "source_or_reference": "[E5] Stanford HAI, The 2026 AI Index Report. https://hai.stanford.edu/ai-index/2026-ai-index-report",
+      "date_or_recency": "2026-04-13; verified 2026-10-18",
+      "evidence_type": "independent indicator compilation",
+      "notes": "Benchmark, not production reliability. The same report's investment and adoption-speed figures are not used as significance evidence."
+    },
+    {
+      "claim": "Frontier 50% task-completion time horizon about 50 minutes in early 2025, doubling roughly every seven months since 2019.",
+      "source_or_reference": "[E4] Kwa et al. (METR), Measuring AI Ability to Complete Long Software Tasks, arXiv 2503.14499. https://arxiv.org/abs/2503.14499",
+      "date_or_recency": "2025-03-18; v4 2026-07-10; verified 2026-10-18",
+      "evidence_type": "independent capability evaluation",
+      "notes": "Software tasks; extrapolation is a projection."
+    },
+    {
+      "claim": "About 80% of US workers could have at least 10% of tasks affected and about 19% at least 50%; LLMs show general-purpose-technology traits.",
+      "source_or_reference": "[E3] Eloundou, Manning, Mishkin, Rock, arXiv 2303.10130; Science 2024. https://arxiv.org/abs/2303.10130",
+      "date_or_recency": "2023-03; Science 2024-06-20; verified 2026-10-18",
+      "evidence_type": "exposure estimate",
+      "notes": "Potential exposure only; authors partly OpenAI-affiliated."
+    },
+    {
+      "claim": "The most competitive agent completed 30% of simulated workplace tasks autonomously; long-horizon tasks remain beyond current systems.",
+      "source_or_reference": "[E11] Xu et al., TheAgentCompany, arXiv 2412.14161; NeurIPS 2025. https://arxiv.org/abs/2412.14161",
+      "date_or_recency": "2024-12-18; v3 2025-09-10; verified 2026-10-18",
+      "evidence_type": "independent agent benchmark",
+      "notes": "Older models than today's frontier."
+    },
+    {
+      "claim": "Experienced open-source developers took 19% longer with early-2025 AI tools while believing they were 20% faster.",
+      "source_or_reference": "[E8] Becker, Rush, Barnes, Rein (METR), arXiv 2507.09089. https://arxiv.org/abs/2507.09089",
+      "date_or_recency": "2025-07-12; verified 2026-10-18",
+      "evidence_type": "randomized controlled trial",
+      "notes": "16 developers; early-2025 tools."
+    },
+    {
+      "claim": "Task-based estimate: total-factor-productivity gain no more than 0.66% over 10 years, adjusted below 0.53%.",
+      "source_or_reference": "[E10] Acemoglu, The Simple Macroeconomics of AI, Economic Policy 40(121) 2025. https://www.nber.org/papers/w32487",
+      "date_or_recency": "2024-05; 2025; verified 2026-10-18",
+      "evidence_type": "model-based macro estimate",
+      "notes": "Contested; not a long-run ceiling."
+    },
+    {
+      "claim": "Electrification's productivity gains arrived only after factories were reorganized, after a long lag.",
+      "source_or_reference": "[E2] Paul A. David, The Dynamo and the Computer, American Economic Review 80(2), 1990. https://acawiki.org/The_dynamo_and_the_computer:_an_historical_perspective_on_the_modern_productivity_paradox",
+      "date_or_recency": "1990; verified 2026-10-18",
+      "evidence_type": "economic history",
+      "notes": "Explains why small early effects do not settle the ceiling."
+    },
+    {
+      "claim": "An AI assistant raised customer-support productivity 14% on average across 5,179 agents, 34% for novices, minimal for the most experienced.",
+      "source_or_reference": "[E7] Brynjolfsson, Li, Raymond, Generative AI at Work, QJE 140(2) 2025. https://www.nber.org/papers/w31161",
+      "date_or_recency": "2023; QJE 2025; verified 2026-10-18",
+      "evidence_type": "field study",
+      "notes": "Assistive tool, not autonomous agent; relevant to support work."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Strongest case AGAINST this classification and FOR a higher one: capability horizons doubling about every seven months (E4), agents approaching the human baseline on computer use (E5), potential exposure for most workers (E3) and a fast-forming protocol ecosystem (E14) could produce real dependence within a few years. The course itself lists generative AI as a Potential Promethean (C1). If dependence appears, the Breakthrough floor will prove too low. That is why the ceiling is recorded as UNRESOLVED rather than Not supported.",
+    "Strongest case for a LOWER classification: measured effects are small or negative in places. Experienced developers were 19% slower (E8), earnings and hours show null effects (E9), the 10-year TFP estimate is under 0.66% (E10), and the best agent completed 30% of realistic tasks (E11). If field reliability does not improve, 'Breakthrough' could be generous outside software development.",
+    "Weighing: two independent capability series support the floor; dependence and realized-impact evidence do not yet support the ceiling. Long lags are normal for general-purpose technologies (E2), so small early effects do not settle the ceiling in either direction.",
+    "Limits: E4 covers software tasks; E5 is a benchmark, not production; E12 and E14 are analyst and vendor sources and are treated as signals, not proof. Diffusion-level figures belong to the Diffusion specialist.",
+    "The provider is a synthetic case; its capabilities and investor pressure are assumptions."
+  ],
+  "confidence_and_uncertainty": "Floor (Breakthrough): Moderate. Two independent capability series agree (E4, E5), but field reliability evidence is weak (E11). Ceiling (Potential-Promethean candidacy): Low. The mechanism and potential breadth are plausible (E3), but there is no dependence evidence and realized effects are mixed (E6, E8-E10). Management can be fairly confident that agentic AI is a significant capability shift, and should not be confident that it is civilization-changing. Confidence in the low significance weight is Moderate-High, because it follows from the incremental-counterfactual test rather than from forecasts. The classification is dated to 2026-10-18 and should be refreshed.",
+  "value_opportunity_implication": "Fast learning cycles; possible lower cost per inquiry; brand benefit only if service quality is demonstrated. Option value is higher than at SPS because the firm can act on what it learns quickly.",
+  "risk_governance_implication": "The largest risk is narrative-driven commitment. A firm with less reputational buffer can lose applicant trust through visible errors or overstated AI claims. Keep staff approval and permission limits. Truthful-marketing questions need specialist review; no legal determination is made here.",
+  "recommendation_management_implication": "Approve a fast matched comparison and a gated, reversible pilot. Defer any 'core differentiator' positioning until measured results exist. Questions for other specialists: Adoption owns go/no-go and scale; Landscape verifies competitor and vendor claims; Readiness checks whether the small admissions team can supervise the agent.",
+  "change_monitoring_triggers": [
+    "Upgrade the ceiling (owner: this specialist, semiannual): independent survey or administrative data showing a substantial and rising share of work hours performed through agents, or organizations unable to revert without major disruption. Compare with E6's 1-5% of work hours. If dependence is shown, rerun Layer 2 toward 'dissolution confirmed'.",
+    "Upgrade tiers: evidence that a second tier (for example education, information-seeking or public services) reorganizes around agents rather than merely using them. Without it, tiers stay at one.",
+    "Downgrade: if independent agent evaluations (successors to E4 and E5) plateau across two annual reports, or field studies keep showing null or negative effects, lower the candidacy to Not supported and recheck the Breakthrough floor.",
+    "Application (owner: head of admissions with product, quarterly): if the pilot beats the baseline on accuracy-adjusted cost per inquiry, scale the application on that evidence; the weight stays Low.",
+    "Narrative check (owner: executive team): before any public 'AI-first' claim, confirm it with measured pilot results."
+  ],
+  "abstention_or_more_information_needed": [
+    "The Promethean question is not yet decidable; candidacy remains UNRESOLVED.",
+    "The provider is synthetic: no measured conversion, cost or error data exist.",
+    "Outside this specialist's authority: go/no-go, legal compliance and business-model exposure."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "cycle": 2,
+  "version": "1.1",
+  "saved_at": "2026-10-18T23:59:03.598882+00:00",
+  "runtime": "Claude (Anthropic) conversational model in the same working session that built the agent, answering the frozen build_prompt.py packets. Not ChatGPT, not API calls, not blinded or independent evaluation, and not measured real-world performance.",
+  "cases": [
+    {
+      "case": "primary",
+      "prompt_sha256": "0ef367a76c373008b76d5334f94c0f979b4d28d865b01766f6e32ed1661cbc20",
+      "response_sha256": "22db44647c4ca52d41396226231a91300be48e77574378e4dd4a1ccb8032441a"
+    },
+    {
+      "case": "contrast_1",
+      "prompt_sha256": "19d7af741bb79983cdc5a2a825140bc82ea3c27e51a8adc7d748a9d163e4d87d",
+      "response_sha256": "7b1090559aa7b551aeab34b5b1bdcc8a953acd41df82ec3f9c7050b619d95882"
+    },
+    {
+      "case": "contrast_2",
+      "prompt_sha256": "5328667d8deb5491451ca4416acc661403eb1e643bb75e1e3e5005686f4a7851",
+      "response_sha256": "f2a3168e75e69d7becfc2d66cfe9ada16877e16bea71d3ae117d03adddf568f4"
+    },
+    {
+      "case": "hype_probe",
+      "prompt_sha256": "781df5d5803802fb313cc16a7da1176b1e12c66b0b759dff5f51de6ee0af2801",
+      "response_sha256": "15b322f51b2ff27c1cc6145ca33cc73495deead54b8cc1661c21ce56429b64b9"
+    }
+  ]
+}
