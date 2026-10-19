@@ -1,0 +1,19 @@
+ASSIGNMENT 4 SUBMISSION CHECKLIST
+Minghan Liu | Promethean Technology Classification Agent v1.1 | October 18, 2026
+Brightspace: "Lab 4 - SubAgent 3 Promethean" - due October 19, 2026, 11:59 PM (Brightspace is authoritative)
+
+1. Open Assignment_4_Agent_Record_Minghan_Liu.docx and complete the three yellow [STUDENT INPUT REQUIRED] items:
+   - Section E, row 1: your independent judgment (2-4 sentences).
+   - Section E, AI / verification note: one sentence on what you personally checked.
+   - Section F: your personal reflection (about 100-150 words). The rubric grades this as your own input
+     (Self-Reflection, 20 of 80 points), so write it yourself.
+   Delete the yellow instructions afterwards.
+2. Optional but recommended (about 5 minutes): paste tests/prompts/cycle_2/primary.txt and hype_probe.txt into
+   ChatGPT, ask for JSON only, and save the replies as new files (for example tests/chatgpt_replication/).
+   This uses the course's required ChatGPT runtime and gives an independent check of the classification.
+3. Be ready to explain: (a) why the suppression test caps agentic AI at Breakthrough today; (b) why the candidacy
+   is UNRESOLVED rather than rejected; (c) why the weight on SPS's decision is Low; (d) what the cycle 1 overclaim was.
+4. Submit the Word record (and, if Brightspace allows, a ZIP of agents/promethean_classification_agent).
+   Include the repository link:
+   https://github.com/lmh04250425/MASY1800-agents/tree/assignment-4-promethean-classification/agents/promethean_classification_agent
+5. Click Submit in Brightspace after uploading.

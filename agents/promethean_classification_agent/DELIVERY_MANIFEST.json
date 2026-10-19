@@ -1,0 +1,23 @@
+{
+  "assignment": 4,
+  "brightspace_title": "Lab 4 - SubAgent 3 Promethean",
+  "student": "Minghan Liu",
+  "date": "2026-10-18",
+  "specialist_version": "1.1",
+  "repository": "https://github.com/lmh04250425/MASY1800-agents",
+  "branch": "assignment-4-promethean-classification",
+  "baseline_assignment3_commit": "3104c5c",
+  "v1_0_commit": "34e836e",
+  "cycle1_commit": "e9e5edd",
+  "v1_1_and_retest_commit": "2925c51",
+  "implementation_tests_records_commit": "ab10c12561efb5693810c92e0d8e05c32a57fe54",
+  "classification": "Breakthrough (floor, moderate) | Potential-Promethean candidacy UNRESOLVED (ceiling, low) | SPS significance weight: Low",
+  "required_student_sections": [
+    "Section E row 1: independent judgment",
+    "Section E: one sentence on personal verification",
+    "Section F: personal reflection"
+  ],
+  "marker": "[STUDENT INPUT REQUIRED]",
+  "validation": "Eight archived responses pass the frozen validator and strict contract checks; 22 structural/invariance checks pass; frozen core intact. Same-session AI-generated tests, not independent real-world validation.",
+  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls."
+}
