@@ -189,7 +189,7 @@ Type: organization primary source. Grade: A. Supports: Phone/email contact, week
 Type: field experiment. Grade: A. Supports: A pre-LLM conversational assistant supported pre-enrollment tasks at Georgia State: chatbots in admissions-adjacent work date back to the innovator stage around 2016. Limits: LLM agents; current adoption.
 
 [D20] eCampus News reporting Intelligent.com. Colleges use AI in admissions (Intelligent.com survey reported by eCampus News) (2023 (survey September 2023)). https://www.ecampusnews.com/campus-leadership/2023/10/13/colleges-use-ai-admissions/
-Type: commercial online survey, recruitment method not disclosed. Grade: C. Supports: 399 'education professionals' (79% higher education, 21% private high schools): 56% say their school uses AI in admissions and 82% expect to by 2024; uses: reviewing recommendation letters 73%, transcripts 71%, communicating with applicants 61%. Limits: A current or representative adoption rate; agentic recruitment support. Stale (2023), mixed population, undisclosed sampling, and mostly about reviewing documents.
+Type: commercial survey, recruitment method not disclosed. Grade: C. Supports: 399 'education professionals' (79% higher education, 21% private high schools): 56% say their school uses AI in admissions and 82% expect to by 2024; uses: reviewing recommendation letters 73%, transcripts 71%, communicating with applicants 61%. Limits: A current or representative adoption rate; agentic recruitment support. Stale (2023), mixed population, undisclosed sampling, and mostly about reviewing documents.
 
 
 # CASE CONTEXT

@@ -1,0 +1,23 @@
+{
+  "assignment": 5,
+  "brightspace_title": "Lab 5 - SubAgent 4 Diffusion",
+  "student": "Minghan Liu",
+  "date": "2026-10-25",
+  "specialist_version": "1.1",
+  "repository": "https://github.com/lmh04250425/MASY1800-agents",
+  "branch": "assignment-5-diffusion",
+  "based_on_branch": "assignment-4-promethean-classification",
+  "v1_0_commit": "3a0ffff",
+  "cycle1_commit": "250affd",
+  "v1_1_and_retest_commit": "47d668d (cycle 2 rebuilt after a register wording fix; see the following commit)",
+  "finding": "L1 generative AI past take-off; L2a any-AI firms at the line (19.8%); L2b agentic AI before the chasm; L3a FAQ chatbots past take-off; L3b tool-using recruitment agents innovators/early adopters; binding factor: observability; SPS timing: prepare and trial now",
+  "weak_claim": "'56%/82% of colleges use AI in admissions' (Intelligent.com 2023, D20)",
+  "required_student_sections": [
+    "Section E row 1: independent judgment",
+    "Section E: one sentence on personal verification",
+    "Section F: personal reflection"
+  ],
+  "marker": "[STUDENT INPUT REQUIRED]",
+  "validation": "Eight archived responses pass the frozen validator and strict contract checks; 24 structural/invariance checks pass; frozen core intact. Same-session AI-generated tests.",
+  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls."
+}
