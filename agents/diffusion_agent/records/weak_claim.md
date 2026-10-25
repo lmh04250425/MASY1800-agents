@@ -20,6 +20,6 @@
 
 - **UAE 64% generative-AI use (D3):** geographically narrow, and about individuals, not organizations.
 - **31% of developers use agents (D8):** industry-specific lead users.
-- **23% of firms "scaling" agents (D5):** larger-firm self-report, scaling "somewhere"; at most 10% in any given function.
+- **23% of firms "scaling" agents (D5):** self-reported in a global online executive survey, scaling "somewhere"; at most 10% in any given function.
 
 **Most important evidence gap:** no representative measure of tool-using agent adoption exists, either in admissions or in organizations generally.

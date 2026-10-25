@@ -96,10 +96,10 @@
     "author": "McKinsey & Company",
     "date": "2025-11-05; survey 2025-06-25 to 2025-07-29, n=1,993 in 105 nations",
     "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-state-of-ai-2025",
-    "type": "self-reported executive/practitioner survey",
+    "type": "self-reported global online survey of executives and practitioners",
     "locator": "Key findings",
     "supports": "88% report regular AI use in at least one function; 23% report their organizations are scaling an agentic AI system somewhere; 39% are experimenting with agents; in any given function no more than 10% report scaling agents; agent use most reported in tech/media/telecom and healthcare.",
-    "does_not_support": "Representativeness (online panel, larger firms); definitional consistency of 'agentic'; higher education not reported.",
+    "does_not_support": "Representativeness: an online survey across company sizes (38% of respondents at firms with more than $1 billion revenue), weighted by national GDP, not a census of firms; 'agentic' is self-defined by respondents; higher education not reported.",
     "evidence_grade": "B",
     "verified_on": "2026-10-25"
   },

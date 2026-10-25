@@ -7,7 +7,7 @@ All four v1.0 outputs passed the frozen validator. The general paragraph was the
 v1.0 placed agentic AI in the **early majority, past the chasm**. It got there by putting numbers from different populations side by side and comparing them all with Rogers' 16% threshold:
 
 - 34-40% of U.S. *adults* who have *ever used* generative AI (D1, D2). That is a person-level measure of a different technology, not agents.
-- 23% of McKinsey respondents whose organizations are scaling an agent *somewhere* (D5). That is a self-reported online sample of larger firms. The same source says that in any given function, no more than 10% are scaling agents. v1.0 left this out.
+- 23% of McKinsey respondents whose organizations are scaling an agent *somewhere* (D5). That is a self-reported, GDP-weighted global online survey of executives, not a census of firms. The same source says that in any given function, no more than 10% are scaling agents. v1.0 left this out.
 - 31% of *developers*, who are lead users (D8).
 
 The representative business figure was not used at all. According to the Census Bureau, 19.8% of U.S. firms use *any* AI in any business function (D4). Agent use must be lower than that. Gartner placed AI agents at the *Peak of Inflated Expectations* in August 2025 (D6), which describes attention, not diffusion. C2 asks exactly this question: is the technology diffusing, or only receiving attention?

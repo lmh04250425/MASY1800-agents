@@ -55,7 +55,7 @@ This is Rogers' diffusion of innovations as taught in Module 6:
 
 Every adoption figure must state four things:
 
-1. **Population:** for example U.S. adults, U.S. firms, large-firm survey respondents, developers, admissions staff, or a peer group.
+1. **Population:** for example U.S. adults, U.S. firms, executive-survey respondents, developers, admissions staff, or a peer group.
 2. **Measure:** ever used, regular use, production use, or scaling.
 3. **Date.**
 4. **Geography.**
@@ -144,7 +144,7 @@ Type: telemetry-based cross-country estimate. Grade: B. Supports: Generative AI 
 Type: nationally representative business survey. Grade: A. Supports: 19.8% of U.S. businesses reported using AI in any business function in the last two weeks; 17-20% from December 2025 to May 2026; 37% of firms with 250+ employees; Information sector 39.7%. Question broadened in November 2025 from 'producing goods or services' to 'any business function'. Limits: Agents specifically; educational services not reported. Earlier BTOS figures are not directly comparable.
 
 [D5] McKinsey & Company. The state of AI in 2025: Agents, innovation, and transformation (2025-11-05; survey 2025-06-25 to 2025-07-29, n=1,993 in 105 nations). https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-state-of-ai-2025
-Type: self-reported executive/practitioner survey. Grade: B. Supports: 88% report regular AI use in at least one function; 23% report their organizations are scaling an agentic AI system somewhere; 39% are experimenting with agents; in any given function no more than 10% report scaling agents; agent use most reported in tech/media/telecom and healthcare. Limits: Representativeness (online panel, larger firms); definitional consistency of 'agentic'; higher education not reported.
+Type: self-reported global online survey of executives and practitioners. Grade: B. Supports: 88% report regular AI use in at least one function; 23% report their organizations are scaling an agentic AI system somewhere; 39% are experimenting with agents; in any given function no more than 10% report scaling agents; agent use most reported in tech/media/telecom and healthcare. Limits: Representativeness: an online survey across company sizes (38% of respondents at firms with more than $1 billion revenue), weighted by national GDP, not a census of firms; 'agentic' is self-defined by respondents; higher education not reported.
 
 [D6] Gartner (via Business Wire). Gartner Hype Cycle Identifies Top AI Innovations in 2025 (2025-08). https://www.businesswire.com/news/home/20250808070139/en
 Type: analyst positioning. Grade: B. Supports: AI agents placed at the Peak of Inflated Expectations on the 2025 Hype Cycle for AI. Limits: Measured adoption. A hype position describes attention and expectations, not diffusion.

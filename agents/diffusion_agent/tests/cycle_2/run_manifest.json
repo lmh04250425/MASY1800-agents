@@ -1,28 +1,28 @@
 {
   "cycle": 2,
   "version": "1.1",
-  "saved_at": "2026-10-25T20:02:01.429760+00:00",
+  "saved_at": "2026-10-25T20:04:35.774314+00:00",
   "runtime": "Claude (Anthropic) conversational model in the same working session that built the agent, answering the frozen build_prompt.py packets. Not ChatGPT, not API calls, not blinded or independent evaluation, and not measured real-world performance.",
   "cases": [
     {
       "case": "primary",
-      "prompt_sha256": "d4432496b51891b0950223770898bbc3d947014d29e7a33c429b51b5c7180f15",
-      "response_sha256": "df8b70268cd5bc77816e47951326cd74c0a29b883e72ab1c29aa2dc1896df9d7"
+      "prompt_sha256": "fecc105f71c399e3bf79b94e169d7d90840b248ba3cc0c3f247c5ea8b1e793f0",
+      "response_sha256": "f8de19fe8dbfb273d3a9215644bb62ee6471bb952b8747ae944a440c4da23289"
     },
     {
       "case": "contrast_1",
-      "prompt_sha256": "5a625259a6bc24c479bcecb39b0bc5d8cc2e1e957bb5cd0eb849d177ae690a4c",
-      "response_sha256": "faad2c7962c681e1f249f391a6ab4e45c30bd9794c389b7d0b0adb8d75ccc703"
+      "prompt_sha256": "30f7646dfb1d3c632183d4d753a67fc8f47f84ac88dc2c509d62aa7f3176cd96",
+      "response_sha256": "a4abb275eb93f40f52aebd7b3c6b43f1c5e041291db4b8b1097b66da9cadfa58"
     },
     {
       "case": "contrast_2",
-      "prompt_sha256": "117453c995a6f3f2c8113544eb0d7f1e07abd88106664178a896b86954dd4b11",
-      "response_sha256": "4e8b92f10176d7a065164563240bd713b566b1513274547cbbe9708a561607de"
+      "prompt_sha256": "868b356a4812f9306d3bb358d561c000aa9c31f0ce24b01db7233ff725adbc90",
+      "response_sha256": "b5c8fd6cce4776e85f68a239e5c3262c1b641d35ae1d6c554bf6b7517872039a"
     },
     {
       "case": "evidence_probe",
-      "prompt_sha256": "438c7fe4a1aff1671bd967b62fa0e07266c73978a7f31c1a9f6b1ff8c4c658c9",
-      "response_sha256": "38732117fd3091920b982fb46d2063b3589998cd88f52012f2b17bf3e7f3f0d8"
+      "prompt_sha256": "4c49425026c54c70688572d53bd5975e020a1d47be4abad2de3c198428305eaa",
+      "response_sha256": "7437319357bc05d0e1b2cef92ab800f71c658914cbf37df7d904b757c4a85d6c"
     }
   ]
 }

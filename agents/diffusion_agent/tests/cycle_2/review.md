@@ -4,7 +4,7 @@ The same four inputs were rerun with the revised instructions. Cycle 1 outputs w
 
 | Review question | Cycle 1 (v1.0) | Cycle 2 (v1.1) | Remaining limit |
 |---|---|---|---|
-| Chasm test | Mixed adults, large-firm respondents and developers; "past the chasm" | Denominator rule; separate placements: L1 past take-off, L2a at the line, L2b early adopters before the chasm | No representative agent-adoption measure exists anywhere |
+| Chasm test | Mixed adults, executive-survey respondents and developers; "past the chasm" | Denominator rule; separate placements: L1 past take-off, L2a at the line, L2b early adopters before the chasm | No representative agent-adoption measure exists anywhere |
 | Chatbots vs agents | Counted as one innovation | L3a FAQ chatbots past take-off (36%, D11); L3b tool-using agents at innovators/early adopters | L3a rests on a vendor survey |
 | Weak evidence | The 2023 "82%" survey and the $800 projection set the stage | Grade C cannot set a stage; D20 named as the weakest claim in every output | Grades are the author's judgment |
 | Five characteristics | Unlabelled ratings | Each marked Observed or Inferred against the real baseline (FAQ chatbot plus staff); observability named as the factor that matters most | Relative advantage is still unmeasured |
@@ -35,7 +35,7 @@ The central correction is about the **denominator**. "Is agentic AI past the cha
 - For firms using any AI, roughly at the line.
 - For tool-using recruitment agents, no.
 
-A fast follower that keys on the wrong population would move one or two years too early. A conservative college that borrows a large-firm figure would feel pressure that its own peers do not show.
+A fast follower that keys on the wrong population would move one or two years too early. A conservative college that borrows an executive-survey figure would feel pressure that its own peers do not show.
 
 ## Limits
 
