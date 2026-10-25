@@ -9,7 +9,7 @@
   "based_on_branch": "assignment-4-promethean-classification",
   "v1_0_commit": "3a0ffff",
   "cycle1_commit": "250affd",
-  "v1_1_and_retest_commit": "47d668d (cycle 2 rebuilt after a register wording fix; see the following commit)",
+  "v1_1_and_retest_commit": "47d668d",
   "finding": "L1 generative AI past take-off; L2a any-AI firms at the line (19.8%); L2b agentic AI before the chasm; L3a FAQ chatbots past take-off; L3b tool-using recruitment agents innovators/early adopters; binding factor: observability; SPS timing: prepare and trial now",
   "weak_claim": "'56%/82% of colleges use AI in admissions' (Intelligent.com 2023, D20)",
   "required_student_sections": [
@@ -19,5 +19,10 @@
   ],
   "marker": "[STUDENT INPUT REQUIRED]",
   "validation": "Eight archived responses pass the frozen validator and strict contract checks; 24 structural/invariance checks pass; frozen core intact. Same-session AI-generated tests.",
-  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls."
+  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls.",
+  "source_correction_commits": [
+    "74859cb (D20 wording; records)",
+    "ff47fa3 (McKinsey characterization; L3a wording)"
+  ],
+  "implementation_tests_records_commit": "ff47fa36cf4dd7e0664d78bbef749cce968cdc68"
 }

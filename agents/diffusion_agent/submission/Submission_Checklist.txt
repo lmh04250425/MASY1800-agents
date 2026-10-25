@@ -1,0 +1,20 @@
+ASSIGNMENT 5 SUBMISSION CHECKLIST
+Minghan Liu | Emerging Technology Diffusion Agent v1.1 | October 25, 2026
+Brightspace: "Lab 5 - SubAgent 4 Diffusion" - due October 26, 2026, 11:59 PM (Brightspace is authoritative)
+
+1. Open Assignment_5_Agent_Record_Minghan_Liu.docx and complete the three yellow [STUDENT INPUT REQUIRED] items:
+   - Section E, row 1: independent judgment (2-4 sentences).
+   - Section E, AI / verification note: one sentence on what you personally checked.
+   - Section F: personal reflection (about 100-150 words). The rubric grades this as your own input
+     (Self-Reflection, 20 of 80 points).
+   Then delete the yellow instructions.
+2. Optional (about 5 minutes): paste tests/prompts/cycle_2/primary.txt into ChatGPT, ask for JSON only, and
+   compare its diffusion placement with responses/primary_response.json.
+3. Be ready to explain:
+   (a) why "past the chasm" depends on which population you count;
+   (b) why chatbots and agents are different innovations;
+   (c) why observability matters most for a fast follower;
+   (d) what the cycle 1 error was.
+4. Submit the Word record (and, if allowed, the ZIP), with the repository link:
+   https://github.com/lmh04250425/MASY1800-agents/tree/assignment-5-diffusion/agents/diffusion_agent
+5. Click Submit in Brightspace.
