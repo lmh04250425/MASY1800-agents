@@ -19,12 +19,7 @@
     "contrast_2_conservative": "continue monitoring (ban not supported)",
     "qualification_probe": "defer with explicit evidence request"
   },
-  "required_student_sections": [
-    "Section E row 1: independent judgment",
-    "Section E: one sentence on personal verification",
-    "Section F: personal reflection"
-  ],
-  "marker": "[STUDENT INPUT REQUIRED]",
   "validation": "Eight archived responses pass the frozen validator and strict contract checks; 27 structural/invariance checks pass; frozen core intact. Same-session AI-generated tests.",
-  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls."
+  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls.",
+  "student_sections": "Independent judgment, AI/verification note and personal reflection completed by Minghan Liu in the Word record (2026-11-02)."
 }
