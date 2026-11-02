@@ -1,0 +1,29 @@
+PASS: FROZEN CORE INTACT
+PASS: Common input schema: primary
+PASS: Common input schema: contrast_1
+PASS: Common input schema: contrast_2
+PASS: Common input schema: qualification_probe
+PASS: Technology held constant across all four cases
+PASS: Application held constant; adoption posture varies across primary and contrasts
+PASS: Qualification probe differs from primary only in the revised design, constraints and pressures
+PASS: Cycle 1 primary: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1 contrast_1: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1 contrast_2: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1 qualification_probe: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 1: general technology finding identical across all four contexts
+PASS: Cycle 2 primary: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2 contrast_1: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2 contrast_2: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2 qualification_probe: frozen validator, strict schema, version, input, instructions and hashes
+PASS: Cycle 2: general technology finding identical across all four contexts
+PASS: Cycle 2: every output states one permitted recommendation category and its decisive factor
+PASS: Cycle 2: posture changes the recommendation (PoC / experiment / monitor), qualification case defers, no adopt for a bleeding-edge class
+PASS: Cycle 2: classification identical (bleeding edge) regardless of posture
+PASS: Cycle 2: application finding identical across the three posture cases
+PASS: Cycle 2: general vs application-decisive vs organization-decisive tags present in every output
+PASS: Cycle 2: all six memo trigger types present in every output
+PASS: Cycle 2: handoff issue to the Organizational Adoption specialist named in every output
+PASS: Cycle 2: every evidence item carries an evidence grade
+PASS: Cycle 1 preserved failures archived unpatched (adopt bleeding edge; endorse ban; live pilot despite missing facts)
+
+27 structural/integrity checks passed. They do not prove that a recommendation is right. See the qualitative reviews.
