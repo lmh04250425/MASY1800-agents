@@ -22,4 +22,4 @@ Four inputs were run under v1.0 (cycle 1) and v1.1 (cycle 2). The inputs were no
 10. Handoff to Organizational Adoption.
 11. No legal conclusions.
 
-**Execution.** The frozen `build_prompt.py` built the packets. A Claude model in the same session answered them. The frozen `validate_response.py` and `tests/verify_package.py` checked the outputs. The runs were not blinded or independent.
+**Execution.** The frozen `build_prompt.py` built the packets. They were run with Claude in place of ChatGPT; generation and review occurred in the same session. The frozen `validate_response.py` and `tests/verify_package.py` checked the outputs. The runs were not blinded or independent.

@@ -9,7 +9,7 @@ The same four inputs were rerun with the revised instructions. Cycle 1 outputs w
 | SPS primary | Live pilot on 10% of inquiries now; satisfaction metrics | Proof of concept now; gated to a bounded experiment this cycle (G1-G4: errors, cost against the best baseline, compliance, capacity) | Thresholds such as 15% are proposed, not validated |
 | Aggressive provider | Adopt in production this quarter | Bounded experiment for one quarter with an abandonment criterion; no adopt | Synthetic case |
 | Conservative college | Reject, and endorse a permanent ban | Continue monitoring with preparation; ban not supported; FAQ-chatbot variant passed on | Synthetic case |
-| Qualification probe | Live pilot "before it expires"; privacy "during the pilot" | Defer with a four-item evidence request, owners and a decision rule; biases named | The pressures were designed by the same assistant |
+| Qualification probe | Live pilot "before it expires"; privacy "during the pilot" | Defer with a four-item evidence request, owners and a decision rule; biases named | Probe designed and tested in the same session |
 | General vs decisive | Not separated | Every output tags [General], [Application-decisive] and [Organization-decisive] | Tagging is judgment |
 | Change conditions | Vague | All six memo trigger types, each with the direction of change | Triggers need real owners at SPS |
 
@@ -32,7 +32,7 @@ The memo's governing question has five possible answers, and v1.1 uses four of t
 
 ## Limits
 
-- One Claude session generated and reviewed both cycles; there was no ChatGPT run and no blinded scoring.
+- Generation and review occurred in the same session, with Claude in place of ChatGPT; there was no blinded scoring.
 - Two organizations are synthetic.
 - The regulatory points are flagged for compliance, not decided.
 - Recommended: paste `tests/prompts/cycle_2/primary.txt` and `qualification_probe.txt` into ChatGPT and compare.

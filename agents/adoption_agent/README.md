@@ -50,6 +50,6 @@ python3 agents/adoption_agent/tests/verify_package.py
 
 ## Limits
 
-- Everything was generated and reviewed in one Claude session, used in place of ChatGPT/Codex. The runs are not blinded.
+- The prompt packets were run with Claude in place of ChatGPT. Generation and review occurred in the same session, and the runs were not blinded.
 - Two organizations are synthetic.
 - Regulatory points are flagged for compliance, not decided.

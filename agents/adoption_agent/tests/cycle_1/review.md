@@ -46,4 +46,4 @@ v1.0's primary answer, a bounded experiment, is in the right family, but:
 6. **General vs decisive tagging**, and **gates** with an owner, a measure, a comparison and a stop rule.
 7. Carry the upstream rules: A4's incremental-counterfactual test and A5's denominator rule.
 
-This review was written by the same AI assistant that generated the outputs; it is not an independent grade.
+Generation and review occurred in the same session, so this is not an independent grade.

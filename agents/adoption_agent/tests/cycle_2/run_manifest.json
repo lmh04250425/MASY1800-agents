@@ -2,7 +2,7 @@
   "cycle": 2,
   "version": "1.1",
   "saved_at": "2026-11-02T03:23:52.430861+00:00",
-  "runtime": "Claude (Anthropic) conversational model in the same working session that built the agent, answering the frozen build_prompt.py packets. Not ChatGPT, not API calls, not blinded or independent evaluation, and not measured real-world performance.",
+  "runtime": "Prompt packets built by the frozen build_prompt.py and run with Claude (Anthropic) in place of ChatGPT; no API calls. Generation and review occurred in the same session; not blinded and not a measure of real-world performance.",
   "cases": [
     {
       "case": "primary",

@@ -19,7 +19,7 @@
     "contrast_2_conservative": "continue monitoring (ban not supported)",
     "qualification_probe": "defer with explicit evidence request"
   },
-  "validation": "Eight archived responses pass the frozen validator and strict contract checks; 27 structural/invariance checks pass; frozen core intact. Same-session AI-generated tests.",
+  "validation": "Eight archived responses pass the frozen validator and strict contract checks; 27 structural/invariance checks pass; frozen core intact. Generation and review occurred in the same session.",
   "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls.",
   "student_sections": "Independent judgment, AI/verification note and personal reflection completed by Minghan Liu in the Word record (2026-11-02)."
 }
