@@ -1,0 +1,19 @@
+ASSIGNMENT 6 SUBMISSION CHECKLIST
+Minghan Liu | Emerging Technology Adoption Agent v1.1 | November 1, 2026
+Brightspace: "Lab 6 - SubAgent 5 Adoption" - due November 2, 2026, 11:59 PM (Brightspace is authoritative)
+
+1. Complete the three yellow [STUDENT INPUT REQUIRED] items in Assignment_6_Agent_Record_Minghan_Liu.docx:
+   - Section E, row 1: independent judgment (2-4 sentences). Say what posture SPS should take now and what
+     evidence or condition would justify a different one.
+   - Section E, AI note: one sentence on what you personally checked.
+   - Section F: personal reflection (about 100-150 words, your own words; 20 of 80 points).
+   Delete the yellow instructions when you are done.
+2. Optional (about 5 minutes): paste tests/prompts/cycle_2/primary.txt into ChatGPT and compare its recommendation.
+3. Be ready to explain:
+   (a) why a bleeding-edge application cannot be "adopt" under the course rules;
+   (b) why posture changes the action but not the classification;
+   (c) why the probe defers;
+   (d) what the cycle 1 errors were.
+4. Upload the Word record and the ZIP. Repository:
+   https://github.com/lmh04250425/MASY1800-agents/tree/assignment-6-adoption/agents/adoption_agent
+5. Click Submit.

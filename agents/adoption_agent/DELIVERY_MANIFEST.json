@@ -1,0 +1,30 @@
+{
+  "assignment": 6,
+  "brightspace_title": "Lab 6 - SubAgent 5 Adoption",
+  "student": "Minghan Liu",
+  "date": "2026-11-01",
+  "specialist_version": "1.1",
+  "repository": "https://github.com/lmh04250425/MASY1800-agents",
+  "branch": "assignment-6-adoption",
+  "based_on_branch": "assignment-5-diffusion",
+  "v1_0_commit": "b202ecd",
+  "cycle1_commit": "3cc58ba",
+  "v1_1_and_retest_commit": "7fb5b7c",
+  "records_commit": "c7ba2a1",
+  "implementation_tests_records_commit": "6f14aeccd4225f5448233f240fab40d0630c99dd",
+  "classification": "bleeding edge (agent-based applicant support)",
+  "recommendations": {
+    "primary_SPS": "proof of concept now, gated to a bounded experiment; not adopt",
+    "contrast_1_aggressive": "bounded experiment (one quarter, abandonment criterion)",
+    "contrast_2_conservative": "continue monitoring (ban not supported)",
+    "qualification_probe": "defer with explicit evidence request"
+  },
+  "required_student_sections": [
+    "Section E row 1: independent judgment",
+    "Section E: one sentence on personal verification",
+    "Section F: personal reflection"
+  ],
+  "marker": "[STUDENT INPUT REQUIRED]",
+  "validation": "Eight archived responses pass the frozen validator and strict contract checks; 27 structural/invariance checks pass; frozen core intact. Same-session AI-generated tests.",
+  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls."
+}
