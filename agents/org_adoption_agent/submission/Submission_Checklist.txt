@@ -1,0 +1,23 @@
+ASSIGNMENT 7 SUBMISSION CHECKLIST
+Minghan Liu | Organizational Adoption (Readiness) Agent v1.1 | November 8, 2026
+Brightspace: "Lab 7 - SubAgent 6 Implementing" - due November 9, 2026, 11:59 PM (Brightspace is authoritative)
+
+1. Read sections E and F of Assignment_7_Agent_Record_Minghan_Liu.docx. They are drafted in your voice:
+   - E, row 1: credibility and your independent judgment;
+   - E, AI / verification note;
+   - F: personal reflection (about 150 words; 20 of 80 points).
+   Edit anything that does not match what you actually did or think. In particular, the AI note says you
+   checked the NIST, OpenAI, McKinsey and NYU sources on November 8; open two or three of them from
+   Appendix D so that the sentence is true.
+2. Optional (about 5 minutes): paste tests/prompts/cycle_2/primary.txt into ChatGPT and compare its verdicts
+   and information request with responses/primary_response.json.
+3. Be ready to explain:
+   (a) why low readiness is not low technology maturity, and why high readiness does not allow adoption;
+   (b) why SPS is ready for the proof of concept but not for the live experiment;
+   (c) why ownership (R8) is the most consequential gap, and why capacity is a question rather than a gap;
+   (d) why the small college's problem is not review volume;
+   (e) why the completeness-check probe is a weak decision, not a readiness problem;
+   (f) what the cycle 1 errors were.
+4. Upload the Word record and the ZIP. Repository:
+   https://github.com/lmh04250425/MASY1800-agents/tree/assignment-7-org-adoption/agents/org_adoption_agent
+5. Click Submit.
