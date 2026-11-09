@@ -25,7 +25,7 @@ The action lists have a Jaccard similarity of 1.0 across all four cases.
 | Ensure data quality and integration | Vague | **Misses the real gap**: the CRM team's migration overlaps the experiment | Misses that the CRM tier has no API at all |
 | Define KPIs | Generic | Generic | Generic |
 
-Twelve of the eighteen cells show an action that either duplicates something the organization already has or misses the specific gap. Only "train reviewers" and "data/integration" touch real gaps, and only vaguely. This is the generic checklist the hint warns about.
+In the contrast-1 column, three actions duplicate things the university already has, and the integration action misses its real gap (the CRM migration). Across all three columns, no action names a specific observed gap; only training (for SPS) and integration come close, and only vaguely. This is the generic checklist the hint warns about.
 
 ## Preserved failure 2: readiness confused with technology maturity, in both directions
 
