@@ -1,0 +1,33 @@
+PASS: FROZEN CORE INTACT
+PASS: Source register: 31 sources, each with an evidence class, refresh class, source date and verification date
+PASS: Common input schema: primary
+PASS: Common input schema: contrast_1
+PASS: Common input schema: contrast_2
+PASS: Common input schema: hype_probe
+PASS: Technology held constant across all four cases
+PASS: Contrast 1 changes the application; contrast 2 keeps the application and changes the organization; the hype probe changes only the question and the forwarded items
+PASS: Cycle 1 primary: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 1 contrast_1: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 1 contrast_2: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 1 hype_probe: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 1: general (broad landscape) finding identical across all four cases
+PASS: Cycle 2 primary: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 2 contrast_1: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 2 contrast_2: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 2 hype_probe: frozen validator, strict schema, version, unchanged input, archived instructions and hashes
+PASS: Cycle 2: general (broad landscape) finding identical across all four cases
+PASS: Cycle 2: dated broad finding; identical application finding for the same application; a different application and strongest alternative for the coding contrast
+PASS: Cycle 2: all ten landscape dimensions present, each with a relevance tier; one to four DECISION-RELEVANT per case
+PASS: Cycle 2: no single score, composite index or hype-cycle placement anywhere in the findings or the recommendation
+PASS: Cycle 2: relevance moves with context - regulation WATCH (SPS) / BACKGROUND (coding) / DECISION-RELEVANT (EU); the most decision-relevant development differs (6, 1, 8) and is itself DECISION-RELEVANT; the headlines leave SPS tiers unchanged
+PASS: Cycle 2: diversity rule - every DECISION-RELEVANT line rests on at least one non-vendor source, case fact or labelled inference
+PASS: Cycle 2: every evidence item is typed (vendor/industry/independent/standard-reg/organization/inference), graded, dated, given a refresh class and consistent with the register
+PASS: Cycle 2: every source cited in the findings exists in the dated register
+PASS: Cycle 2: every trigger names a dimension, what to watch, cadence, threshold, consequence and a watcher stated in the case; each case ends with a refresh schedule
+PASS: Cycle 2: the stale claim (E11, 30%) is named and refreshed (D35, 42.9%) in every output and in the general finding
+PASS: Cycle 2: hype probe - all five forwarded items typed and graded; "falling behind" tested against a denominator; the proof of concept is kept
+PASS: Cycle 2: SPS information request asks for the platform fact the most decision-relevant development depends on
+PASS: Sensitivity: organization-finding word overlap between SPS and the coding contrast fell from 0.88 (v1.0, same market summary) to 0.35 (v1.1)
+PASS: Cycle 1 preserved failures archived unpatched (same market summary, score and hype-cycle label, vendor claim as finding, stale 30%, identical vague triggers, headlines moving the decision)
+
+31 structural/integrity checks passed. They do not prove that a landscape judgment is right. See the qualitative reviews.
