@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI built on large language models (LLM-based agents that plan, use tools, and complete multi-step tasks)",
+  "intended_application": "Coding agents for a software engineering team: agents read the codebase, plan changes, run tests and open pull requests. Engineers review and approve every merge.",
+  "organization": "Hypothetical mid-size B2B software company with about 120 engineers (synthetic profile; not an observed company)",
+  "industry_sector": "Software / SaaS. Code quality, security, intellectual property and delivery speed matter.",
+  "business_need": "Know where coding agents sit in today's landscape and which external developments should change the engineering team's plan to roll out agentic coding tools beyond its current IDE assistant.",
+  "users_stakeholders": "Engineers; engineering managers; VP of Engineering (sponsor); security team; platform/DevOps team; finance (tool spend)",
+  "adoption_posture": "Moderate / fast-follower (held constant across all cases; for NYU SPS this is a course-case assumption, not an official policy).",
+  "capabilities_constraints": "Synthetic profile: all engineers already use an IDE AI assistant (autocomplete and chat); a CI pipeline runs automated tests; code review is required for every merge; customer contracts forbid sharing customer code with third parties; the VP of Engineering wants a decision on agentic tools that open pull requests.",
+  "risk_consequence_context": "Insecure or wrong code merged; leakage of proprietary or customer code; prompt injection through repository content or dependencies; token-heavy agents overrunning the tool budget.",
+  "management_question": "Where do coding agents sit in the current technology landscape, which development matters most for this company over the next 12 months, and what signal should trigger a reassessment?",
+  "time_horizon": "12 months: tool decision this quarter; review at mid-year",
+  "additional_context": "APPLICATION CONTRAST: the technology is held constant; the application and organization change. No upstream Adoption classification exists for this application, so none may be assumed. Use the dated source register."
+}

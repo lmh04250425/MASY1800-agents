@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI built on large language models (LLM-based agents that plan, use tools, and complete multi-step tasks)",
+  "intended_application": "Proposed bounded applicant-support workflow: retrieve approved program information, ask clarifying questions, plan next steps, and request a counselor appointment through a permission-limited tool. Staff approve outbound messages and any record changes. Excludes admission, scholarship, visa and eligibility decisions.",
+  "organization": "Hypothetical public university in the Netherlands - international graduate admissions office (synthetic profile; not an observed institution)",
+  "industry_sector": "Higher education - graduate admissions in the European Union. The EU AI Act and the GDPR apply directly; exact obligations require legal review.",
+  "business_need": "Know where agent-based applicant support sits in today's landscape and which external developments should change the staged path (proof of concept, then a gated bounded experiment) or its vendor and design requirements.",
+  "users_stakeholders": "Prospective international students; admissions officers (would review agent drafts); director of admissions (sponsor); university IT; data protection officer; legal counsel",
+  "adoption_posture": "Moderate / fast-follower (held constant across all cases; for NYU SPS this is a course-case assumption, not an official policy).",
+  "capabilities_constraints": "Synthetic profile: the office runs a US-based CRM vendor's FAQ chatbot today. The vendor is marketing agent features that can also pre-screen and process applications. The data protection officer requires EU data-processing terms. Staff would approve outbound messages in any trial. Legal counsel is assessing whether the university would be the provider or the deployer of an agent built on the vendor's platform.",
+  "risk_consequence_context": "Wrong deadlines or promises can harm applicants; a decision based solely on automated processing with significant effects raises GDPR Article 22 questions; admission-related AI may fall in the EU AI Act high-risk category. No legal determination is made.",
+  "management_question": "Where does agent-based applicant support sit in the current technology landscape, which development matters most for this university over the next 12 months, and what signal should trigger a reassessment?",
+  "time_horizon": "12 months: proof of concept this term; bounded-experiment decision within this admissions cycle",
+  "additional_context": "ORGANIZATION CONTRAST: the technology and application are held constant; the organization and jurisdiction change. The upstream SPS findings (C4, C6) do not transfer to this university. Use the dated source register."
+}

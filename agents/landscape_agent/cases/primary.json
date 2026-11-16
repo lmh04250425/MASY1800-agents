@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Agentic AI built on large language models (LLM-based agents that plan, use tools, and complete multi-step tasks)",
+  "intended_application": "Proposed bounded applicant-support workflow: retrieve approved program information, ask clarifying questions, plan next steps, and request a counselor appointment through a permission-limited tool. Staff approve outbound messages and any record changes. Excludes admission, scholarship, visa and eligibility decisions.",
+  "organization": "NYU School of Professional Studies (SPS) - graduate admissions",
+  "industry_sector": "Higher education - graduate and professional admissions and recruitment (United States). International applicants include EU residents; exact legal obligations require specialist review.",
+  "business_need": "Know where agent-based applicant support sits in today's landscape and which external developments should change the staged path (proof of concept, then a gated bounded experiment) or its vendor and design requirements.",
+  "users_stakeholders": "Prospective students; admissions counselors; SPS enrollment management leadership (sponsor); marketing/enrollment staff; NYU IT and SPS technology staff (platforms and vendors); NYU privacy and compliance officers",
+  "adoption_posture": "Moderate / fast-follower (held constant across all cases; for NYU SPS this is a course-case assumption, not an official policy).",
+  "capabilities_constraints": "Verified: the SPS graduate application site offers a virtual assistant named Violet (D49, 2026-11-15); NYU Admissions runs a generative-AI admissions bot with live-agent hand-off (D17). The platform behind Violet and SPS's CRM is not named in public sources (D49). No vendor has been selected. Readiness (C6): proof of concept ready with conditions; live experiment not yet ready.",
+  "risk_consequence_context": "Wrong deadlines or promises can harm applicants, and the organization is accountable for what its agent says; unauthorized actions can expose data. No applicant records are used in this assignment. No legal determination is made.",
+  "management_question": "Where does agent-based applicant support sit in the current technology landscape, which development matters most for NYU SPS over the next 12 months, and what signal should trigger a reassessment?",
+  "time_horizon": "12 months: proof of concept this term; bounded-experiment decision within this admissions cycle",
+  "additional_context": "Upstream: the Adoption specialist (C4) classifies agent-based applicant support as bleeding edge and permits a proof of concept now, gated to a bounded experiment; the Readiness specialist (C6) finds the proof of concept ready with conditions and the live experiment not yet ready, and asks Landscape to shortlist vendors only against data-terms requirements (no-training, retention, deletion, least-privilege connector). Use the dated source register. Primary case."
+}
