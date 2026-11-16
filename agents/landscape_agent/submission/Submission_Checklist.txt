@@ -7,9 +7,9 @@ Brightspace: "Lab 8 - SubAgent 7 Landscape" - due November 16, 2026, 11:59 PM (B
    - the AI / verification note;
    - the Analytical conclusion;
    - F: personal reflection (about 150 words; 20 of 80 points).
-   Change anything that is not what you did or think. The AI note says you checked the TheAgentCompany
-   leaderboard, the METR study, the Commission's Article 50 page, the Linux Foundation announcement and the
-   vendor pages on November 15. Open two or three of them from Appendix E so that it is true.
+   Change anything that is not what you did or think. The AI note says you checked the sources that drive
+   the landscape position on November 15. Open two or three of them from Appendix E (for example D35 and D33)
+   so that it is true.
 2. Optional (about 5 minutes): paste tests/prompts/cycle_2/primary.txt into ChatGPT and compare its tiers
    and its most decision-relevant development with responses/primary_response.json.
 3. Be ready to explain:
