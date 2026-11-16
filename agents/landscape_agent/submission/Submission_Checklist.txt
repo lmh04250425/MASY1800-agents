@@ -1,0 +1,24 @@
+ASSIGNMENT 8 SUBMISSION CHECKLIST
+Minghan Liu | Emerging Technology Landscape Agent v1.1 | November 15, 2026
+Brightspace: "Lab 8 - SubAgent 7 Landscape" - due November 16, 2026, 11:59 PM (Brightspace is authoritative)
+
+1. Read sections E and F of Assignment_8_Agent_Record_Minghan_Liu.docx. They are written in your voice:
+   - E row 1: credibility and your judgment;
+   - the AI / verification note;
+   - the Analytical conclusion;
+   - F: personal reflection (about 150 words; 20 of 80 points).
+   Change anything that is not what you did or think. The AI note says you checked the TheAgentCompany
+   leaderboard, the METR study, the Commission's Article 50 page, the Linux Foundation announcement and the
+   vendor pages on November 15. Open two or three of them from Appendix E so that it is true.
+2. Optional (about 5 minutes): paste tests/prompts/cycle_2/primary.txt into ChatGPT and compare its tiers
+   and its most decision-relevant development with responses/primary_response.json.
+3. Be ready to explain:
+   (a) why vendor convergence, not the headline forecasts, is the signal that matters for SPS;
+   (b) the flip test;
+   (c) why the 30% figure was stale and why the refresh changes no class or step;
+   (d) why regulation is WATCH for SPS but DECISION-RELEVANT for the EU university;
+   (e) why the coding contrast relies on the randomized trial rather than SWE-bench;
+   (f) what the cycle 1 errors were.
+4. Upload the Word record and the ZIP. Repository:
+   https://github.com/lmh04250425/MASY1800-agents/tree/assignment-8-landscape/agents/landscape_agent
+5. Click Submit.

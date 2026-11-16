@@ -1,0 +1,23 @@
+{
+  "assignment": 8,
+  "brightspace_title": "Lab 8 - SubAgent 7 Landscape",
+  "student": "Minghan Liu",
+  "date": "2026-11-15",
+  "specialist_version": "1.1",
+  "repository": "https://github.com/lmh04250425/MASY1800-agents",
+  "branch": "assignment-8-landscape",
+  "based_on_branch": "assignment-7-org-adoption",
+  "v1_0_cases_register_commit": "f8b65cd",
+  "cycle1_commit": "84962ad",
+  "implementation_tests_records_commit": "430535a6a750822772dd99e68c7db0f97fca225d",
+  "landscape_conclusions": {
+    "primary_SPS": "application at existence-proof stage; most decision-relevant development = vendor convergence (dimension 6); strongest alternative = chatbot over approved content + staff + self-scheduling link; information request = platform behind Violet/CRM",
+    "contrast_1_coding": "most decision-relevant = measured vs perceived productivity (dimension 1); alternative = IDE assistant + code review; regulation BACKGROUND",
+    "contrast_2_EU_university": "most decision-relevant = vendor scope creep meeting EU high-risk boundary (dimension 8); regulation DECISION-RELEVANT",
+    "hype_probe": "five headlines typed and graded; SPS tiers unchanged; proof of concept kept"
+  },
+  "stale_claim": "E11 '30% of tasks' refreshed to 42.9% (D35, data as of 2026-11-15)",
+  "validation": "Eight archived responses pass the frozen validator and strict contract checks; 31 structural/invariance checks pass; frozen core intact and byte-identical to the Brightspace ZIP. Generation and review occurred in the same session.",
+  "runtime": "Claude (Anthropic) used in place of ChatGPT/Codex; no API calls.",
+  "student_sections": "Independent judgment, AI/verification note, analytical conclusion and personal reflection drafted in the student's voice; the student reviews and edits before submission."
+}
